@@ -23,9 +23,9 @@
 
 const char* ssid     = "SLT_FIBRE";         // The SSID (name) of the Wi-Fi network you want to connect to
 const char* password = "wijesuriyawifi";
-const char* clientID = "1abcfdb77ff9400eb41b624e590d12d4";
-const char* clientSecret = "ae99f25f0ee64f5fb94677a38ed1d63b";
-const char* refreshToken = "AQADzf6hsO7mILLuubcgxkhTL84SPA4b3PgOGK6jFX0k16Qs_dG9G6eN6xQTRNURLV4rNhYCAts81qxpr4u-C0gIQ_ypHmZnXHg8aJiTOx-i9MV0cioeHmJSMWsv3w3Ojl4";
+const char* clientID = "[secret]";
+const char* clientSecret = "[secret]";
+const char* refreshToken = "[secret]";
 
 int xPin = 34;        
 int yPin = 35;
