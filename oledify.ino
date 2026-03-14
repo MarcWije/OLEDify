@@ -22,7 +22,7 @@
 #endif
 
 const char* ssid     = "SLT_FIBRE";         // The SSID (name) of the Wi-Fi network you want to connect to
-const char* password = "wijesuriyawifi";
+const char* password = "[secret]";
 const char* clientID = "[secret]";
 const char* clientSecret = "[secret]";
 const char* refreshToken = "[secret]";
